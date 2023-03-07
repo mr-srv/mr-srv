@@ -10,6 +10,6 @@
 
 <img align="center"  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
   
-<img align="center"  src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" />
+<img align="center"  src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" />
 
 </p>
