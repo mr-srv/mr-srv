@@ -11,5 +11,7 @@
 <img align="center"  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
   
 <img align="center"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" />
+  
+<img align="center"  src="https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white" />
 
 </p>
