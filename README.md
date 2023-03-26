@@ -15,7 +15,7 @@
   
 <img align="center"  src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 
-<a href="https://app.daily.dev/sauravromero"><img src="https://api.daily.dev/devcards/65ee769ee8c94559add6dbaa984d358a.png?r=j5n" width="400" alt="Saurav Adhikari's Dev Card"/></a>
+<a href="https://app.daily.dev/sauravromero"><img src="https://api.daily.dev/devcards/65ee769ee8c94559add6dbaa984d358a.png?r=a5n" width="400" alt="Saurav Adhikari's Dev Card"/></a>
  
 </p>
 
