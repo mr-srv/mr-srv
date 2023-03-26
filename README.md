@@ -14,6 +14,8 @@
 <img align="center"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white" />
   
 <img align="center"  src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+  
+![Header](https://www.pngall.com/wp-content/uploads/2016/06/Graphic-Design-PNG-Pic.png "Header")
 
 <a href="https://app.daily.dev/sauravromero"><img src="https://api.daily.dev/devcards/65ee769ee8c94559add6dbaa984d358a.png?r=a5n" width="400" alt="Saurav Adhikari's Dev Card"/></a>
  
