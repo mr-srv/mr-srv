@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I am Saurav Adhikari.
 
+[![](https://visitcount.itsvg.in/api?id=saurav&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-srv&" alt="mr-srv" /></p>
 
 <p align="center">
