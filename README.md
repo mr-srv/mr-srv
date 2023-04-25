@@ -21,7 +21,7 @@
 
 ![Header](https://www.pngall.com/wp-content/uploads/2016/06/Graphic-Design-PNG-Pic.png "Header") 
 
-<a href="https://app.daily.dev/sauravromero"><img src="https://api.daily.dev/devcards/65ee769ee8c94559add6dbaa984d358a.png?r=56n" width="400" alt="Saurav Adhikari's Dev Card"/></a>
+<a href="https://app.daily.dev/sauravromero"><img src="https://api.daily.dev/devcards/65ee769ee8c94559add6dbaa984d358a.png?r=wys" width="400" alt="Saurav Adhikari's Dev Card"/></a>
  
 </p>
 
